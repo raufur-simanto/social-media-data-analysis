@@ -41,9 +41,10 @@ curl "http://localhost:5000/api/v1/trending-topics?time_range=1d"
 
 ## Setup and Installation
 1. Clone the repository
+ ```git remote add origin git@github.com:raufur-simanto/social-media-data-analysis.git
  ```
- 
-1. Create a virtual environment and activate it
+
+2. Create a virtual environment and activate it
  ```
  python3 -m venv venv   
  source venv/bin/activate

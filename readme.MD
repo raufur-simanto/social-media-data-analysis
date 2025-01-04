@@ -40,6 +40,9 @@ curl "http://localhost:5000/api/v1/trending-topics?time_range=1d"
 ```
 
 ## Setup and Installation
+1. Clone the repository
+ ```
+ 
 1. Create a virtual environment and activate it
  ```
  python3 -m venv venv   
